@@ -1,0 +1,4 @@
+
+step 1: npm install --save crypto-js
+
+step 2:npm install --save elliptic
